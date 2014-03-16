@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/3.0">
+    <id>hecki97.html.mlkvertretungsplan</id>
+    <versionNumber>1.0</versionNumber>
+    <filename>MLKVertretungsplan</filename>
+    <description>Desktop Applikation zur Darstellung des MLK Vertretungsplans.     SourceCode: https://github.com/hecki97/MLKVertretungsplan-DesktopApplikation</description>
+    <copyright>2014 by hecki97.</copyright>
+    <icon> 
+        <image16x16>icons/icon@16x16.airpng</image16x16> 
+        <image32x32>icons/icon@32x32.airpng</image32x32> 
+        <image48x48>icons/icon@48x48.airpng</image48x48> 
+        <image128x128>icons/icon@128x128.airpng</image128x128>  
+    </icon>
+    <initialWindow>
+        <content>index.airhtml</content>
+        <visible>true</visible>
+        <width>1170</width>
+        <height>690</height>
+        <systemChrome>standard</systemChrome>
+        <resizable>false</resizable>
+        <maximizable>false</maximizable>
+    </initialWindow>
+    <fileTypes>
+        <fileType> 
+            <name>MLKVertrtungsplan.airhtml</name> 
+            <extension>airhtml</extension> 
+            <description>AirHTML file type</description> 
+            <contentType>text/plain</contentType> 
+        </fileType>
+    </fileTypes>
+</application>

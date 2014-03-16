@@ -1,0 +1,21 @@
+<html>
+<head>
+    <title>MLK-Vertretungsplan</title>
+    <meta http-equiv="refresh" content="310; URL=Blank.aspx">
+</head>
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0">
+   	 <!-- <script type="text/javascript" src="main.js"></script> -->
+    <table border=0 bordercolor="#000000" cellpadding=0 cellspacing=0 width="1163" height="658">
+		<tr>
+			<td colspan="1" rowspan="1" width="581" height="657" style="border-right:1px solid black;">
+    			<iframe src="https://light.dsbcontrol.de/DSBlightWebsite/(S(wns2f3dhy5w21zzxuzomq1ph))/Homepage/PreProgram.aspx?ID=a290d4b8-79f8-4afe-a676-d15b75233151&Width=581&Height=657&ID2=d24a5dd7-48c6-4b27-8f79-464a62af12bf&Navigation=False" name="Vertretungsplan-Modul" scrolling="no" noresize frameborder=0  width="581" height="657" style="overflow: hidden;">
+    			</iframe>
+			</td>
+			<td colspan="1" rowspan="1" width="581" height="657" style="">
+    			<iframe src="https://light.dsbcontrol.de/DSBlightWebsite/(S(wns2f3dhy5w21zzxuzomq1ph))/Homepage/PreProgram.aspx?ID=9de26a53-1a27-40ed-9ee1-82b65a6bcb38&Width=581&Height=657&ID2=d24a5dd7-48c6-4b27-8f79-464a62af12bf&Navigation=False" name="Vertretungsplan-Modul 2" scrolling="no" noresize frameborder=0  width="581" height="657" style="overflow: hidden;">
+    			</iframe>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
