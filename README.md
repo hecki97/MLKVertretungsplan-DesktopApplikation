@@ -2,7 +2,7 @@ MLKVertretungsplan-DesktopApplikation
 =====================================
 
 Download der Applikation:
-http://bit.ly/mlkPlan
+http://bit.ly/MLKVplan
 
 
 
